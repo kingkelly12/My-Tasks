@@ -1,4 +1,5 @@
 import React from "react";
+import UserProfile from "./userProfile";
 
 export const TaskList = ({tasks, headingText}) => {
 
